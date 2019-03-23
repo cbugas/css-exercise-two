@@ -1,16 +1,33 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #ffffff;
+  color: #000000;
   font size: 16px;
 }
 
+h1 {
+  font size: 20px;
+}
 
+h3 {
+  font size: 18px;
+}
+
+.story-text {
+  line-height: 1.2;
+  line-height: 75%;
+  line-height: 2em;
+  line-height: normal;
+}
 
 nav {
   background-color: rgba(0,0,0,.5);
   float: left;
   position: fixed;
   width: 100%;
+}
+
+a {
+  text-decoration: none;
 }
 
 .logo {
