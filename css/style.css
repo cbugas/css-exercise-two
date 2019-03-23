@@ -2,7 +2,11 @@ body {
   background-color: #ffffff;
   color: #000000;
   font size: 16px;
-  background-image: src="images/bloc logo.png" class="logo";
+  background-image: "instagram-pic.jpg";
+  line-height: 1.2;
+  line-height: 75%;
+  line-height: 2em;
+  line-height: normal;
 }
 
 h1 {
@@ -13,15 +17,9 @@ h3 {
   font size: 18px;
 }
 
-.story-text {
-  line-height: 1.2;
-  line-height: 75%;
-  line-height: 2em;
-  line-height: normal;
-}
-
 nav {
   background-color: rgba(0,0,0,.5);
+  background-image: "images/bloc logo.png";
   float: left;
   position: fixed;
   width: 100%;
