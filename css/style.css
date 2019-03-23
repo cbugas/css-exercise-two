@@ -19,7 +19,6 @@ h3 {
 
 nav {
   background-color: rgba(0,0,0,.5);
-  background-image: url(images/bloc logo.png);
   float: left;
   position: fixed;
   width: 100%;
@@ -36,10 +35,12 @@ a {
 
 .large-pic {
   width: 100%;
+  background-image: url(instagram-pic.jpg);
 }
 
 .medium-pic {
   width: 70%;
+  background-image: url(images/bloc logo.png);
 }
 
 .left, .right {
@@ -63,6 +64,10 @@ li {
 
 article {
   padding-top: 100px;
+  line-height: 1.2;
+  line-height: 75%;
+  line-height: 2em;
+  line-height: normal;
 }
 
 .container {
