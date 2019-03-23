@@ -2,6 +2,7 @@ body {
   background-color: #ffffff;
   color: #000000;
   font size: 16px;
+  background-image: src="images/bloc logo.png" class="logo";
 }
 
 h1 {
