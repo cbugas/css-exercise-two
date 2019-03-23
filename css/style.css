@@ -2,7 +2,7 @@ body {
   background-color: #ffffff;
   color: #000000;
   font size: 16px;
-  background-image: "instagram-pic.jpg";
+  background-image: url(instagram-pic.jpg);
   line-height: 1.2;
   line-height: 75%;
   line-height: 2em;
@@ -19,7 +19,7 @@ h3 {
 
 nav {
   background-color: rgba(0,0,0,.5);
-  background-image: "images/bloc logo.png";
+  background-image: url(images/bloc logo.png);
   float: left;
   position: fixed;
   width: 100%;
