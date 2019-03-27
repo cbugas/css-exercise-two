@@ -33,7 +33,7 @@ nav {
 
 a {
   text-decoration: none;
-  a:hover { color:#0070BC; } /* mouse over */
+  a:hover { color:#0070BC; }   /* mouse over */
 }
 
 .logo {
@@ -48,7 +48,7 @@ a {
 
 .medium-pic {
   width: 70%;
-  background-image: src=url(images/bloc logo.png);
+  background-image: url(images/bloc logo.png);
 }
 
 .left, .right {
