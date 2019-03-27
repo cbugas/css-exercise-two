@@ -39,7 +39,7 @@ a {
 .logo {
   margin: 20px;
   width: 100px;
-  img: url(images/bloc logo.png);
+  background-image: url('images/bloc logo.png'); 
 }
 
 .large-pic {
@@ -48,7 +48,7 @@ a {
 
 .medium-pic {
   width: 70%;
-  img: "instagram-pic.jpg"
+  background-image: url('instagram-pic.jpg")
 }
 
 .left, .right {
