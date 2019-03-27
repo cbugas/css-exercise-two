@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
 }
 
@@ -72,7 +72,7 @@ li {
 
 article {
   padding-top: 100px;
-  line-height: 1.2;
+  line-height: 4;
   line-height: 75%;
   line-height: 2em;
   line-height: normal;
