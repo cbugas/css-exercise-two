@@ -1,7 +1,7 @@
 body {
   background-color: #ffffff;
   color: #000000;
-  background-image: url(instagram-pic.jpg);
+  img: url(instagram-pic.jpg);
   background-repeat: no-repeat;
   background-position: top;
 }
@@ -33,22 +33,22 @@ nav {
 
 a {
   text-decoration: none;
-  a:hover { color:#0070BC; }   /* mouse over */
+  
 }
 
 .logo {
   margin: 20px;
   width: 100px;
+  img: url(images/bloc logo.png);
 }
 
 .large-pic {
   width: 100%;
-  background-image: url(instagram-pic.jpg);
 }
 
 .medium-pic {
   width: 70%;
-  background-image: url(images/bloc logo.png);
+  img: "instagram-pic.jpg"
 }
 
 .left, .right {
