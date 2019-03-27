@@ -18,7 +18,7 @@ h1 {
 
 h3 {
   font-size: 18px;
-  font-type: italic;
+  font-style: italic;
 }
 
 nav {
@@ -44,7 +44,7 @@ a {
 
 .medium-pic {
   width: 70%;
-  background-image: url(images/bloc logo.png);
+  background-image: src=url(images/bloc logo.png);
 }
 
 .left, .right {
