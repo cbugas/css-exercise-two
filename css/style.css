@@ -1,6 +1,9 @@
 body {
   background-color: #ffffff;
   color: #000000;
+  background-image: url(instagram-pic.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
 }
 
 .story-text {
