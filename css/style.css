@@ -5,7 +5,7 @@ body {
   background-position: top;
 }
 
-.story-text {
+p {
   font-size: 14px;
   line-height: normal;
 }
