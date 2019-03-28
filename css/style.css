@@ -7,7 +7,11 @@ body {
 
 p {
   font-size: 14px;
-  line-height: normal;
+  line-height: 75%
+}
+
+figcaption {
+  font-type: italic
 }
 
 h1 {
