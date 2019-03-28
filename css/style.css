@@ -8,6 +8,8 @@ body {
 p {
   font-size: 17px;
   line-height: 1.5;
+  margin-top: 0em;
+  margin-bottom: 2em;
 }
 
 figcaption {
